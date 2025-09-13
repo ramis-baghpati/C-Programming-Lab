@@ -22,5 +22,12 @@ This could be the second heading\
 ~~I have submitted my assignment under the deadline~~
   
   # My favourite programming languages are:
-  + Python
-  + C++
+  1 Python\
+  2 C++
+
+## Lab#3 Task#6
+### My New Heading
+*Italic*\
+**Bold Characters**\
+~~Cancelled out text~~
+
