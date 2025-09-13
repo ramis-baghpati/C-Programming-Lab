@@ -12,9 +12,7 @@ This could be the second heading\
 - Lets learn github
   * Hello
   + Cwazyy\
-  # My favourite programming languages are:
-  + Python
-  + C++
+
  
 
 - [x] #804\
@@ -22,3 +20,7 @@ This could be the second heading\
 + [ ] Add delight to where all your tasks are
 
 ~~I have submitted my assignment under the deadline~~
+  
+  # My favourite programming languages are:
+  + Python
+  + C++
