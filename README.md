@@ -29,5 +29,5 @@ This could be the second heading\
 ### My New Heading
 *Italic*\
 **Bold Characters**\
-~~Cancelled out text~~
-
+~~Cancelled out text~~\
+```My New code block```
